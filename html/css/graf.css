@@ -1,0 +1,11 @@
+body {
+    padding: 15px
+}
+
+#chart {
+    min-width: 310px;
+    height: 400px;
+    margin: 0 auto;
+    border: solid;
+    border-color: red;
+}

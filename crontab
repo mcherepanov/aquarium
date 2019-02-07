@@ -1,0 +1,2 @@
+@reboot /home/setupini/akvarium.sh
+* * * * * /usr/bin/php /var/www/html/crontab.php
